@@ -107,3 +107,4 @@ dist
 artifacts/
 cache/
 abi/
+typechain-types
